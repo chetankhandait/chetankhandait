@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 
-- 🔭 I’m currently working on  **(यात्रा)Yatra**
+- 🔭 I’m currently working on building my **SAAS product**
 
-- 🌱 I’m currently learning **React.js**, **Next.js** and **Node.js**
+- 🌱 I’m currently learning **React.js**,**React Native** **Next.js** and **Node.js**
 
 - 👯 I’m looking to collaborate on **Hacktober**
 
